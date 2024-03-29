@@ -1,0 +1,28 @@
+#home-top-bg {
+    background-image: url("/Guest/img/prjct-bg-futball.jpg");
+    height: 400px;
+    width: 100%;
+}
+
+.signup {
+    border-radius: 40px;
+    background-color: #adbdde;
+    border: none;
+    color: white;
+    padding: 6px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    font-weight: 700;
+}
+.signin{
+    text-decoration: none;
+    font-size: 16px;
+    font-weight: 700;
+    color: #adbdde;
+    
+}
+.signin:hover{
+    color: black;
+}
